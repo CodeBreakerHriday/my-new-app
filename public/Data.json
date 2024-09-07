@@ -1,0 +1,53 @@
+[
+               {
+                 "id": 1,
+                 "title": "The Future of AI in Technology",
+                 "cover_image": "https://i.imghippo.com/files/md1wO1725689780.jpg",
+                 "author_name": "John Doe",
+                 "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+                 "posted_time": "2024-09-07T10:00:00",
+                 "reading_time": "5 min read",
+                 "hashtag": ["#AI", "#Technology", "#Future", "#Innovation"]
+               },
+               {
+                 "id": 2,
+                 "title": "Understanding JavaScript Closures",
+                 "cover_image": "https://i.imghippo.com/files/w3h881725690448.jpg",
+                 "author_name": "Jane Smith",
+                 "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+                 "posted_time": "2024-09-06T14:30:00",
+                 "reading_time": "8 min read",
+                 "hashtag": ["#JavaScript", "#Closures", "#WebDevelopment", "#Coding"]
+               },
+               {
+                 "id": 3,
+                 "title": "10 Tips for Effective Remote Work",
+                 "cover_image": "https://i.imghippo.com/files/PS61Q1725690514.jpg",
+                 "author_name": "Samuel Green",
+                 "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
+                 "posted_time": "2024-09-05T09:15:00",
+                 "reading_time": "6 min read",
+                 "hashtag": ["#RemoteWork", "#Productivity", "#WorkFromHome", "#Tips"]
+               },
+               {
+                 "id": 4,
+                 "title": "A Beginner's Guide to React Hooks",
+                 "cover_image": "https://i.imghippo.com/files/yqgfF1725690676.png",
+                 "author_name": "Emily White",
+                 "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
+                 "posted_time": "2024-09-04T18:45:00",
+                 "reading_time": "7 min read",
+                 "hashtag": ["#React", "#Hooks", "#FrontendDevelopment", "#WebDev"]
+               },
+               {
+                 "id": 5,
+                 "title": "The Rise of Quantum Computing",
+                 "cover_image": "https://i.imghippo.com/files/BLmN01725690717.jpg",
+                 "author_name": "Michael Brown",
+                 "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
+                 "posted_time": "2024-09-03T12:00:00",
+                 "reading_time": "10 min read",
+                 "hashtag": ["#QuantumComputing", "#TechTrends", "#FutureOfComputing", "#Innovation"]
+               }
+             ]
+             
