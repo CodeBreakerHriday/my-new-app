@@ -17,7 +17,7 @@ useEffect(()=>{
 },[])
   return (
     <div>
-      {blogs.map(blog=><div className='mb-10 bg-red-400 w-[380px] md:w-[850px] lg:w-[850px]  shadow-lg rounde-md p-4 w-[850px]'>
+      {blogs.map(blog=><div className='mb-10  w-[380px] md:w-[850px] lg:w-[850px]  shadow-lg rounde-md p-4 w-[850px]'>
                
                <img className=' md:w-[800px] lg:w-[800px] w-[360px] p-4   mb-8' src={blog.cover_image} alt="" />
                <div className='flex justify-center w-[360px] md:w-[800px] lg:w-[800px] mb-4'>
