@@ -10,8 +10,8 @@ const Blog = ({blog,handlebookmark}) => {
   }
              
   return (
-    <div className=''>
-    <div className='mb-10 w-[380px] md:w-[750px] shadow-lg rounde-md p-6 '>
+    <div>
+    <div className='mb-10 w-[360px]  md:w-[750px] shadow-lg rounde-md p-6 '>
                
                <img className='w-[350px] md:w-[750px]   mb-8' src={cover_image} alt="" />
                <div className='flex justify-between w-[320px]  md:w-[700px]   mb-4'>

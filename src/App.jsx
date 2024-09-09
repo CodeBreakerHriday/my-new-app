@@ -22,7 +22,7 @@ const handlebookmark = blog =>{
 
   return (
     <>
-      <div className='px-20'>
+      <div className='pr-5 pl-4 md:px-20'>
     
         <Header></Header>
         <div className='flex flex-col md:flex-row gap-6'>
