@@ -6,8 +6,8 @@
                  "author_name": "John Doe",
                  "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
                  "posted_time": "2024-09-07",
-                 "reading_time": "5 min read",
-                 "hashtag": ["#AI", "#Technology", "#Future", "#Innovation"]
+                 "reading_time": 5,
+                 "hashtag": ["#AI", "#Future", "#Innovation"]
                },
                {
                  "id": 2,
@@ -16,8 +16,8 @@
                  "author_name": "Jane Smith",
                  "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
                  "posted_time": "2024-09-06",
-                 "reading_time": "8 min read",
-                 "hashtag": ["#JavaScript", "#Closures", "#WebDevelopment", "#Coding"]
+                 "reading_time": 8,
+                 "hashtag": ["#JavaScript", "#Closures", "#Coding"]
                },
                {
                  "id": 3,
@@ -26,8 +26,8 @@
                  "author_name": "Samuel Green",
                  "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
                  "posted_time": "2024-09-05",
-                 "reading_time": "6 min read",
-                 "hashtag": ["#RemoteWork", "#Productivity", "#WorkFromHome", "#Tips"]
+                 "reading_time": 6,
+                 "hashtag": ["#RemoteWork", "#Productivity", "#Tips"]
                },
                {
                  "id": 4,
@@ -36,8 +36,8 @@
                  "author_name": "Emily White",
                  "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
                  "posted_time": "2024-09-04",
-                 "reading_time": "7 min read",
-                 "hashtag": ["#React", "#Hooks", "#FrontendDevelopment", "#WebDev"]
+                 "reading_time": 7,
+                 "hashtag": ["#React", "#Hooks", "#FrontendDevelopment"]
                },
                {
                  "id": 5,
@@ -46,8 +46,8 @@
                  "author_name": "Michael Brown",
                  "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
                  "posted_time": "2024-09-03",
-                 "reading_time": "10 min read",
-                 "hashtag": ["#QuantumComputing", "#TechTrends", "#FutureOfComputing", "#Innovation"]
+                 "reading_time": 10,
+                 "hashtag": ["#QuantumComputing", "#FutureOfComputing"]
                }
              ]
              
