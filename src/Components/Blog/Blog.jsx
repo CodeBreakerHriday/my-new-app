@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import bookmark from '../../images/bookmark.png'
-const Blog = ({blog,handlebookmark}) => {
+const Blog = ({blog,handlebookmark,markasread}) => {
              
-               const {cover_image,author_img,hashtag,title,author_name,posted_time,reading_time} = blog;
+               const {cover_image,author_img,hashtag,title,id,author_name,posted_time,reading_time} = blog;
   let click = 0;
   const count = ()=>{
    click++;
@@ -34,7 +34,7 @@ const Blog = ({blog,handlebookmark}) => {
                }
                </ul>
                
-               
+               <button onClick={()=>markasread(blog,id)}><u className='text-[#6047EC] font-semibold'>Mark as read</u></button>
       </div>
       
     </div>

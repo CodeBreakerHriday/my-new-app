@@ -19,6 +19,12 @@ const handlebookmark = blog =>{
   setbookmark(newbookmarks);
  
 }
+const markasread = (blog,id) =>{
+  console.log('marked as read');
+  console.log(blog);
+  const bookmarked = bookmark.filter(book_marked=>book_marked.id!=id);
+  setbookmark(bookmarked);
+}
 
   return (
     <>
@@ -26,7 +32,7 @@ const handlebookmark = blog =>{
     
         <Header></Header>
         <div className='flex flex-col md:flex-row gap-6'>
-        <Blogs handlebookmark={handlebookmark}></Blogs>
+        <Blogs handlebookmark={handlebookmark} markasread={markasread}></Blogs>
         <Displayblog bookmark={bookmark} ></Displayblog>
         </div>
       
